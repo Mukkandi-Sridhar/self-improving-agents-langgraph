@@ -165,5 +165,5 @@ LangGraph allows you to start simple and evolve toward more powerful agent syste
 
 ## Author
 
-**Sridhar Royal**  
+**Sridhar**  
 BTech Student | Agentic AI | LangGraph  
